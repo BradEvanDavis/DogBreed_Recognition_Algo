@@ -24,5 +24,6 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 4. Install packages from requirements.txt.
 5. Open a terminal window and navigate to the project folder then open dog_app.ipynb to see how training was done.
 6. For the Webapp go to the flask_webapp folder and then type export FLASK_APP="dog_recognition_webapp.py" into your terminal
-7. Once in the flask_webapp folder and after you've defined an environment variable for FLASK_APP type flask run into your terminal to launch the webapp
+7. Once in the flask_webapp folder and after you've defined an environment variable for FLASK_APP type "flask run" into your terminal to launch the webapp
+8. Navigate to localhost:5000 to view the launched webapp (other ports can be defined using the -p option in the flask run command)
 8. Test your images!

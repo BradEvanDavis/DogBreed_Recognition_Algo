@@ -48,7 +48,7 @@ torch, torchvision, tensorflow==1.13.1, keras==2.2.4, numpy, cv2, flask, flask_u
 
 ## Conclusions:
 
-Outputs leveraging the pretrained VGG19 model were better than expected given that when attempting to create a model from scratch after 20 epochs it only approached 20% accuracy.  After reflection, a few possible points of improvement to focus on include the following: 
+Outputs leveraging the pretrained VGG19 model to obtain 88% accuracy were better than expected given that when attempting to create a model from scratch after 20 epochs it only approached 20% accuracy.  After reflection, a few possible points of improvement to focus on include the following: 
 
 1) hyperparameter tuning
 2) number of epochs trained

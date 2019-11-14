@@ -14,7 +14,7 @@ This model explores state-of-the-art CNN models for classification and localizat
 
 ![Sample Output][image1]
 
-## Analysis:
+## Results and Analysis:
 
 To train the model successfully I leveraged a pretrained VGG19 model where the final layer was replaced with outputs required for the dog breed recognition task.  VGG19 was chosen to take advantage of its state of the art performance as demonstrated in other image recognition tasks.
 
